@@ -1,0 +1,3 @@
+include ':app', ':Segmentlibrary', ':facebookSDK'
+project(':Segmentlibrary').projectDir = new File('library')
+project(':facebookSDK').projectDir = new File('facebook')

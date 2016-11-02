@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/SpringHappenings/Segmentlibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d8a364122f4e6c94fc611dd38dda52367fbbbc1">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-91c443e9159fd2471fe2275018d297a2769076ca.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/ParseCrashReporting-1.8.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1d00b92e605b3d970994449b93d8ff135f96bb41">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.8.4-8c95f8c8bef0dd01e3f085d6f1bac6388f7a4587.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/4.2.42/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5f81129dfb3d02df80126512bc98278ed2bb40a">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-08575d0fe679d86d7575baaef38fedd2923ddaff.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/ParseFacebookUtils-1.8.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f17db949d266ba0b578e0f1314014a6a581d8935">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/ParseFacebookUtils-1.8.4-1049ac593555f7ccd6277c5ba61d3f42d924096f.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/crittercism_v3_0_3_sdkonly.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="17fd8b2c455671bb79b043fe79fa82846881809f">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/crittercism_v3_0_3_sdkonly-31fdf006fee01f7f913cfe23c14a00e822e3e2f3.jar" />
+    </item>
+    <item
+        jar="/Volumes/WORK/Develop/AndroidStudio/SDK_NEW/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-927466e4e55d693eb917d1421230bf1b03a59de8.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/android-essentials-master.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d54dc255eb284c0ba6ceff1b67837e2b20e105cc">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/android-essentials-master-ecf2c1b9a0c45b3a59e4170cc9e6995d6b0eb100.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/bolts-android-1.1.4-javadoc.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f5dd6492c539679411fa30818320b737c410158f">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-javadoc-05da4adbc1326f815440ef27f1a24461347f5b5a.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="803c4c913beac8f7980d680c725a40835d1d7c77">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-14984a6480c9f7178fa1b50d38f3d7c2aab034c5.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-a329362830ecdff0da244026836253eb2c977035.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-d1720e2620072a2467ee0bcf1e24ab763cc56191.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/com.kyleduo.switchbutton/library/1.2.8/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba391b1093df0505d6f0c56689c28384a4dafcc4">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-e355fb2ad224d4738afc89d61e1b4ccba5066696.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-4b69b044f25d6f2a842da8c20ef53bf7228cacf3.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/libs/Parse-1.8.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0fcb6bbc9cf6d2643a90c812539aa82ed16ea315">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/Parse-1.8.4-a0fb9f03c11329c9002b6fafe6ea0537942673bf.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-23c4a1e967c53ad7ec93b48598ec42e8935d5a80.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/com.facebook.android/facebookSDK/3.23.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c40c17deaae6078ca61a05a6c7e7017590a2420d">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/classes-9c03ca9f2889cfc8f168a0f600b32ad58d96ad9c.jar" />
+    </item>
+    <item
+        jar="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-ed496ff8a64a8edb0180aa2b7751d9a38d2e7fa8.jar" />
+    </item>
+    <item
+        jar="/Users/root1/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/root1/AndroidStudioProjects/SpringHappenings/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-ca2fa15934f7608ae8a46bcb8e32851845e9f674.jar" />
+    </item>
+
+</items>

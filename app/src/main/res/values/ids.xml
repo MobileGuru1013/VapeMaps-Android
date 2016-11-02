@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="detailID" type="id"/>
+    <item name="mapID" type="id"/>
+    <item name="photoID" type="id"/>
+</resources>
